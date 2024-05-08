@@ -4,7 +4,7 @@ This is the home of all my projects that i will make in the future, most will be
 Feel free to check out my creations!
 
 ### Current Projects
-* Kuiba
+* a tower defense game (no name yet)
 * SimpleBinds
 * OSFaction
 <!--
